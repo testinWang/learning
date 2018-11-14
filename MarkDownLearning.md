@@ -1,4 +1,4 @@
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 <!--    **AAA** 表示加粗               -->
 #<center>**汪海龙**</center>
 
@@ -50,5 +50,7 @@
 | 0     | 董惠雯       | 18     | 女   |
 | 1     | 董大佬       | 24     | 女   |
 </center>
+
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 
