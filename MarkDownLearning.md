@@ -24,7 +24,7 @@
 <table>
   <thead>
     <tr>
-      <th>董惠雯</th>
+      <th>董雯雯</th>
       <th>董瑶瑶</th>
     </tr>
   </thead>
